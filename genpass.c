@@ -1,8 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-//P.S Cntr+C for close the programm
-
 int main(){
 	printf("Generator passwords on C\n");
 	printf("^C for close the programm\n");
